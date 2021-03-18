@@ -1,0 +1,10 @@
+[
+  {
+    "groupName": "facebook",
+    "precedence": 1
+  },
+  {
+    "groupName": "google",
+    "precedence": 2
+  }
+]
